@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Nice to meet you! Friends...
 
 - 🔭 I’m currently working on Chuanghuo. 
-- 
+
 - 🛍️ Chuanghuo is a shopping platform. It has Wechat H5 & Miniapp.
 
 - 👨‍💻 I'm a PM / Developer. 
